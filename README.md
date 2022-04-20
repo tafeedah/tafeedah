@@ -1,8 +1,10 @@
-### Hi there 👋
 
-<p align="center"><a href="https://Codex95.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+
+<p align="center"><a href="https://Codex95.github.io"><img width="" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
+
+### What's up?
 
 I'm a self-taught passionate FrontEnd developer from Nigeria 🇳🇬, Graduated as a computer science student (Bsc.) from International University of Africa, Sudan 🇸🇩
 
