@@ -22,12 +22,12 @@ I'm a self-taught passionate FrontEnd developer from Nigeria 🇳🇬, Graduated
 
 <!--Codex's GitHub stats]-->
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Codex95&hide=issues&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tafeedah&hide=issues&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" />
 </a>
 
 <!--[Top Langs]-->
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codex95&theme=gruvbox&layout=compact&langs_count=8&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafeedah&theme=gruvbox&layout=compact&langs_count=8&hide_border=true" />
 </a>
 
 <!--Wakatime stats-->
