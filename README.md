@@ -2,6 +2,7 @@
 
 <p align="center"><a href="https://Codex95.github.io"><img width="" src="./assets/gh-readme-header.png" /></a></p>
 
+![Twitter Follow](https://img.shields.io/twitter/follow/ak_Yakasai95?style=flat)
 <br />
 
 ### What's up?
