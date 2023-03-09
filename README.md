@@ -37,7 +37,7 @@ I'm a self-taught passionate FrontEnd developer from Nigeria 🇳🇬, Graduated
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Codex95&theme=gruvbox&hide_border=true" />
 </a>
-
+<a href="https://wakatime.com/badge/user/11104a7b-1927-43a3-b714-8756e754d1d8/project/f51f678b-be44-40a5-b28f-658820f62052"><img src="https://wakatime.com/badge/user/11104a7b-1927-43a3-b714-8756e754d1d8/project/f51f678b-be44-40a5-b28f-658820f62052.svg" alt="wakatime"></a>
 <br />
 
 <a href="https://twitter.com/ak_Yakasai95">
