@@ -24,20 +24,30 @@ I'm a self-taught passionate FrontEnd developer from Nigeria 🇳🇬, Graduated
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 <!--Codex's GitHub stats]-->
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tafeedah&hide=issues&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" />
-</a>
+
 
 <!--[Top Langs]-->
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafeedah&theme=gruvbox&layout=compact&langs_count=8&hide_border=true" />
-</a>
+
+
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=tafeedah&hide=issues&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafeedah&theme=gruvbox&layout=compact&langs_count=8&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--Wakatime stats-->
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tafeedah&theme=gruvbox&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@tafeedah&show_icons=true&theme=gruvbox&hide_border=true" />
+  </a>
+
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafeedah&repo=weather-app&theme=gruvbox&show_owner=true&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafeedah&repo=Ramadan-Blog&theme=gruvbox&show_owner=true&hide_border=true" />
 </a>
 
+<br />
 <br />
 
 <a href="https://twitter.com/ak_Yakasai95">
