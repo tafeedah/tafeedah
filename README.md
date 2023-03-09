@@ -40,10 +40,10 @@ I'm a self-taught passionate FrontEnd developer from Nigeria 🇳🇬, Graduated
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/tafeedah/weather-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafeedah&repo=weather-app&theme=gruvbox&show_owner=true&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/tafeedah/Ramadan-Blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafeedah&repo=Ramadan-Blog&theme=gruvbox&show_owner=true&hide_border=true" />
 </a>
 
